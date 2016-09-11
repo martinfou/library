@@ -1,0 +1,22 @@
+{
+  "name": "library",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "martinfou <martinfou@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.6.3"
+  }
+}
