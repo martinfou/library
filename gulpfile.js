@@ -4,7 +4,6 @@ var jscs = require('gulp-jscs');
 
 var jsFiles = ['*.js','src/**/*.js'];
 
-
 gulp.task('style',function(){
     return gulp.src(jsFiles)
         .pipe(jshint())
