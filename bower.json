@@ -18,5 +18,8 @@
   "dependencies": {
     "bootstrap": "^3.3.7",
     "font-awesome": "^4.6.3"
+  },
+  "devDependencies": {
+    "bootstrap": "^3.3.7"
   }
 }
