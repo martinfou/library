@@ -12,6 +12,7 @@
     "character-parser": "^2.2.0",
     "clean-css": "^3.4.19",
     "constantinople": "^3.1.0",
+    "ejs": "^2.5.2",
     "express": "^4.14.0",
     "gulp": "^3.9.1",
     "jade": "^1.11.0",
